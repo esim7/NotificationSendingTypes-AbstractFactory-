@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.exe
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.deps.json
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.runtimeconfig.json
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.runtimeconfig.dev.json
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.dll
+C:\Users\home\source\repos\NotificationSender\NotificationSender\bin\Debug\netcoreapp3.0\NotificationSender.pdb
+C:\Users\home\source\repos\NotificationSender\NotificationSender\obj\Debug\netcoreapp3.0\NotificationSender.csprojAssemblyReference.cache
+C:\Users\home\source\repos\NotificationSender\NotificationSender\obj\Debug\netcoreapp3.0\NotificationSender.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\NotificationSender\NotificationSender\obj\Debug\netcoreapp3.0\NotificationSender.AssemblyInfo.cs
+C:\Users\home\source\repos\NotificationSender\NotificationSender\obj\Debug\netcoreapp3.0\NotificationSender.dll
+C:\Users\home\source\repos\NotificationSender\NotificationSender\obj\Debug\netcoreapp3.0\NotificationSender.pdb
