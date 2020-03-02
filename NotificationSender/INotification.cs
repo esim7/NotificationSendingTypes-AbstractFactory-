@@ -6,6 +6,6 @@ namespace NotificationSender
 {
     public interface INotification
     {
-        string CreateMessage();
+        string SendMessage();
     }
 }

@@ -6,6 +6,6 @@ namespace NotificationSender
 {
     public interface IAbstractFactory
     {
-        INotification SendMessage();
+        INotification CreateMessage();
     }
 }

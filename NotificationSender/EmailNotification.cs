@@ -6,7 +6,7 @@ namespace NotificationSender
 {
     public class EmailNotification : BaseNotification, INotification
     {
-        public string CreateMessage()
+        public string SendMessage()
         {
             this.NotificationText = "EmailNotification";
             return $"Message was sent as {this.NotificationText} at {this.CreationDate}"; 

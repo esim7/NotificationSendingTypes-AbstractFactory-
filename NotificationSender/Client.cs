@@ -8,9 +8,8 @@ namespace NotificationSender
     {
         public void SendNotification(IAbstractFactory factory)
         {
-            var result = factory.SendMessage();
-            result.CreateMessage();
-            Console.WriteLine(result.CreateMessage());
+            var result = factory.CreateMessage();
+            Console.WriteLine(result.SendMessage());
         }
     }
 }

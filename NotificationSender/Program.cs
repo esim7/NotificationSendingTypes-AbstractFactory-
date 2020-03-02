@@ -6,8 +6,7 @@ namespace NotificationSender
     {
         static void Main(string[] args)
         {
-            new Client().SendNotification(new PushFactory());
-
+            new Client().SendNotification(new EmailFactory());
         }
     }
 }

@@ -6,7 +6,7 @@ namespace NotificationSender
 {
     public class SmsFactory : IAbstractFactory
     {
-        public INotification SendMessage()
+        public INotification CreateMessage()
         {
             return new SmsNotification();
         }
